@@ -1,0 +1,11 @@
+{
+  "__comment1": "Obtain these values via Roboflow",
+  "ROBOFLOW_API_KEY": "G89jN53C2UkDH9Qs1h6H",
+  "ROBOFLOW_MODEL": "red-billed-quelea/6",
+  "ROBOFLOW_SIZE": 416,
+  "DATASET_NAME": "red-billed-quelea",
+  "LOCAL_SERVER": false,
+  "LAPLACIAN_THRESHOLD": 300,
+  "CONFIDENCE_THRESHOLD": 0.6
+  
+}
